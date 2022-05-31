@@ -1,3 +1,3 @@
 <?php
-echo "fujom";
+echo "fujom mwapashua";
 ?>
